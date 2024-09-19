@@ -1,1 +1,13 @@
-requirements.txt
+Day2/.venv
+Day1/__pycache__
+Day1/.pytest_cache
+Day1/new_env
+Day2/__pycache__
+Day2/.env
+Day4/.venv
+Day7/airflow/dags/__pycache__
+Day7/airflow/logs
+Day7/airflow/airflow.db
+Day7/airflow/airflow.cfg
+Day7/airflow/airflow-webserver.pid
+Day7/airflow/webserver_config.py
